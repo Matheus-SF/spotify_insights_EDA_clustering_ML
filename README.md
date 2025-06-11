@@ -1,6 +1,6 @@
 ## Spotify Insights: EDA + Clustering + ML
 
-Meu objetivo neste projeto foi entender padrões de músicas e obter insights sobre as faixas que compõem as melhores posições do ranking.
+Meu objetivo neste projeto foi utilizar a linguagem R para entender padrões de músicas e obter insights sobre as faixas que compõem as melhores posições do ranking.
 Além disso, também classifiquei as músicas por meio de clusters para identificar padrões com base no número de streams.
 Por fim, criei um modelo com regressão logística para verificar se seria possível prever se uma música teria ou não sucesso nos rankings.
 
