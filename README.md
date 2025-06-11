@@ -1,5 +1,3 @@
-# spotify_insights_EDA_clustering_ML
-
 ## Spotify Insights: EDA + Clustering + ML
 
 Meu objetivo neste projeto foi entender padrões de músicas e obter insights sobre as faixas que compõem as melhores posições do ranking.
