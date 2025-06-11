@@ -33,7 +33,7 @@ Foi realizada a técnica de **K-Means Clustering** com base nas variáveis **Pos
 
 ---
 
-## 3.Machine Learning
+## 3. Machine Learning
 
 Utilizou-se **Regressão Logística** para prever se uma música tem chance de ser considerada um **"sucesso"** com base no número de **Streams**:
 
@@ -45,7 +45,7 @@ Utilizou-se **Regressão Logística** para prever se uma música tem chance de s
   * Acurácia e desempenho avaliados via **matriz de confusão** e **AUC**.
   * Resultado: **AUC ≈ 0.70**, indicando desempenho aceitável para prever se uma música será ou não um sucesso com base apenas na quantidade de streams.
  
-##Conclusões Finais
+## Conclusões Finais
 
 1. A maioria das músicas do Top 100 compartilha características similares, o que explica a formação de poucos clusters representativos.
 
