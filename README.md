@@ -10,7 +10,7 @@ A base é composta por rankings globais coletados diariamente durante o ano de 2
 
 ## Métodos Utilizados
 
-##1. EDA
+## 1. EDA
 
 * **Visualizações com `ggplot2`**: Utilizadas para identificar tendências de distribuição de `Streams`, posições (`Position`) e frequência por artistas.
 * **Análise temporal**: Observamos a evolução das faixas ao longo do tempo para identificar padrões e sazonalidades.
@@ -19,7 +19,7 @@ A base é composta por rankings globais coletados diariamente durante o ano de 2
 
 ---
 
-##2. Clusterização
+## 2. Clusterização
 
 Foi realizada a técnica de **K-Means Clustering** com base nas variáveis **Position** e **Streams**, a fim de segmentar as músicas em grupos com comportamentos similares.
 
